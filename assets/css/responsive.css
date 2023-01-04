@@ -1,0 +1,34 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+    .none {
+        display: none;
+    }
+
+    .post p,
+    .medium {
+        font-size: 12px !important;
+    }
+
+    .opacity,
+    .title {
+        font-size: 12px;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    .my-name,
+    .open-15 {
+        font-size: 13px;
+    }
+
+    .open-18 {
+        font-size: 15px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+@media (min-width: 1200px) {}
